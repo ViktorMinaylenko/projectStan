@@ -1,0 +1,98 @@
+/* Основний контейнер навбару */
+.navbar-custom {
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+/* Логотип */
+.navbar-brand {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #000 !important;
+}
+
+/* Посилання в навбарі */
+.nav-link-custom {
+    color: #000 !important;
+    font-weight: 500;
+    margin: 0 1.5rem;
+    transition: color 0.3s ease;
+}
+
+.nav-link-custom:hover {
+    color: #007bff !important;
+}
+
+/* Контейнер пошуку */
+.search-container {
+    width: 250px;
+    background-color: #f8f9fa;
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+}
+
+/* Поле введення */
+.search-input {
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 0.5rem 1rem;
+    flex-grow: 1;
+}
+
+/* Кнопка пошуку */
+.search-button {
+    border: none;
+    background: transparent;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Іконки кошика/профілю */
+.nav-icon {
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: #000;
+    transition: color 0.3s ease;
+}
+
+.nav-icon:hover {
+    color: #007bff;
+}
+
+/* Адаптація для мобільних пристроїв */
+@media (max-width: 768px) {
+    .navbar-custom {
+        flex-direction: column;
+        align-items: center;
+        padding: 1rem;
+    }
+
+    .nav-links-container {
+        width: 100%;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+
+    .search-container {
+        width: 100%;
+        max-width: 550px;
+    }
+
+    .nav-icons {
+        margin-left: 0;
+        margin-top: 1rem;
+        width: 100%;
+        justify-content: center;
+    }
+}
