@@ -1,0 +1,1726 @@
+{
+  "@apidevtools/json-schema-ref-parser@9.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/APIDevTools/json-schema-ref-parser",
+    "publisher": "James Messinger",
+    "url": "https://jamesmessinger.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@apidevtools\\json-schema-ref-parser",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@apidevtools\\json-schema-ref-parser\\LICENSE"
+  },
+  "@apidevtools/openapi-schemas@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/APIDevTools/openapi-schemas",
+    "publisher": "James Messinger",
+    "url": "https://jamesmessinger.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@apidevtools\\openapi-schemas",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@apidevtools\\openapi-schemas\\LICENSE"
+  },
+  "@apidevtools/swagger-methods@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/APIDevTools/swagger-methods",
+    "publisher": "James Messinger",
+    "url": "https://jamesmessinger.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@apidevtools\\swagger-methods",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@apidevtools\\swagger-methods\\LICENSE"
+  },
+  "@apidevtools/swagger-parser@10.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/APIDevTools/swagger-parser",
+    "publisher": "James Messinger",
+    "url": "https://jamesmessinger.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@apidevtools\\swagger-parser",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@apidevtools\\swagger-parser\\LICENSE"
+  },
+  "@jsdevtools/ono@7.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/JS-DevTools/ono",
+    "publisher": "James Messinger",
+    "url": "https://jamesmessinger.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@jsdevtools\\ono",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@jsdevtools\\ono\\LICENSE"
+  },
+  "@mapbox/node-pre-gyp@1.0.11": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/mapbox/node-pre-gyp",
+    "publisher": "Dane Springmeyer",
+    "email": "dane@mapbox.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@mapbox\\node-pre-gyp",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@mapbox\\node-pre-gyp\\LICENSE"
+  },
+  "@scarf/scarf@1.4.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/scarf-sh/scarf-js",
+    "publisher": "Scarf Systems",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@scarf\\scarf",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@scarf\\scarf\\LICENSE"
+  },
+  "@types/debug@4.1.12": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@types\\debug",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@types\\debug\\LICENSE"
+  },
+  "@types/json-schema@7.0.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@types\\json-schema",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@types\\json-schema\\LICENSE"
+  },
+  "@types/ms@0.7.34": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@types\\ms",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@types\\ms\\LICENSE"
+  },
+  "@types/node@22.10.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@types\\node",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@types\\node\\LICENSE"
+  },
+  "@types/validator@13.12.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@types\\validator",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\@types\\validator\\LICENSE"
+  },
+  "abbrev@1.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/abbrev-js",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\abbrev",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\abbrev\\LICENSE"
+  },
+  "accepts@1.3.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/accepts",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\accepts",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\accepts\\LICENSE"
+  },
+  "agent-base@6.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TooTallNate/node-agent-base",
+    "publisher": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://n8.io/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\agent-base",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\agent-base\\README.md"
+  },
+  "ansi-regex@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ansi-regex",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ansi-regex\\license"
+  },
+  "anymatch@3.1.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/micromatch/anymatch",
+    "publisher": "Elan Shanker",
+    "url": "https://github.com/es128",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\anymatch",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\anymatch\\LICENSE"
+  },
+  "aproba@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/aproba",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\aproba",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\aproba\\LICENSE"
+  },
+  "are-we-there-yet@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/are-we-there-yet",
+    "publisher": "GitHub Inc.",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\are-we-there-yet",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\are-we-there-yet\\LICENSE.md"
+  },
+  "argparse@2.0.1": {
+    "licenses": "Python-2.0",
+    "repository": "https://github.com/nodeca/argparse",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\argparse",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\argparse\\LICENSE"
+  },
+  "array-flatten@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/array-flatten",
+    "publisher": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\array-flatten",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\array-flatten\\LICENSE"
+  },
+  "balanced-match@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/balanced-match",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\balanced-match",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\balanced-match\\LICENSE.md"
+  },
+  "bcrypt@5.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kelektiv/node.bcrypt.js",
+    "publisher": "Nick Campbell",
+    "url": "https://github.com/ncb000gt",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\bcrypt",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\bcrypt\\LICENSE"
+  },
+  "binary-extensions@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/binary-extensions",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\binary-extensions",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\binary-extensions\\license"
+  },
+  "body-parser@1.20.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/body-parser",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\body-parser",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\body-parser\\LICENSE"
+  },
+  "brace-expansion@1.1.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/brace-expansion",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\brace-expansion",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\brace-expansion\\LICENSE"
+  },
+  "braces@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/braces",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\braces",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\braces\\LICENSE"
+  },
+  "buffer-equal-constant-time@1.0.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/goinstant/buffer-equal-constant-time",
+    "publisher": "GoInstant Inc., a salesforce.com company",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\buffer-equal-constant-time",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\buffer-equal-constant-time\\LICENSE.txt"
+  },
+  "busboy@1.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mscdex/busboy",
+    "publisher": "Brian White",
+    "email": "mscdex@mscdex.net",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\busboy",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\busboy\\LICENSE"
+  },
+  "bytes@3.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/bytes.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\bytes",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\bytes\\LICENSE"
+  },
+  "call-bind-apply-helpers@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bind-apply-helpers",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\call-bind-apply-helpers",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\call-bind-apply-helpers\\LICENSE"
+  },
+  "call-bind@1.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bind",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\call-bind",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\call-bind\\LICENSE"
+  },
+  "call-me-maybe@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/limulus/call-me-maybe",
+    "publisher": "Eric McCarthy",
+    "email": "eric@limulus.net",
+    "url": "http://www.limulus.net/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\call-me-maybe",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\call-me-maybe\\LICENSE"
+  },
+  "chokidar@3.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/paulmillr/chokidar",
+    "publisher": "Paul Miller",
+    "url": "https://paulmillr.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\chokidar",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\chokidar\\LICENSE"
+  },
+  "chownr@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/chownr",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\chownr",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\chownr\\LICENSE"
+  },
+  "color-support@1.1.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/color-support",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\color-support",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\color-support\\LICENSE"
+  },
+  "commander@6.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tj/commander.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\commander",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\commander\\LICENSE"
+  },
+  "commander@9.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tj/commander.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\z-schema\\node_modules\\commander",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\z-schema\\node_modules\\commander\\LICENSE"
+  },
+  "concat-map@0.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-concat-map",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\concat-map",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\concat-map\\LICENSE"
+  },
+  "console-control-strings@1.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/console-control-strings",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "url": "http://re-becca.org/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\console-control-strings",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\console-control-strings\\LICENSE"
+  },
+  "content-disposition@0.5.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-disposition",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\content-disposition",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\content-disposition\\LICENSE"
+  },
+  "content-type@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-type",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\content-type",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\content-type\\LICENSE"
+  },
+  "cookie-signature@1.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-cookie-signature",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@learnboost.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\cookie-signature",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\cookie-signature\\Readme.md"
+  },
+  "cookie@0.7.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/cookie",
+    "publisher": "Roman Shtylman",
+    "email": "shtylman@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\cookie",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\cookie\\LICENSE"
+  },
+  "cors@2.8.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/cors",
+    "publisher": "Troy Goode",
+    "email": "troygoode@gmail.com",
+    "url": "https://github.com/troygoode/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\cors",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\cors\\LICENSE"
+  },
+  "debug@2.6.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/debug",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\debug",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\debug\\LICENSE"
+  },
+  "debug@4.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/debug-js/debug",
+    "publisher": "Josh Junon",
+    "url": "https://github.com/qix-",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\agent-base\\node_modules\\debug",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\agent-base\\node_modules\\debug\\LICENSE"
+  },
+  "define-data-property@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/define-data-property",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\define-data-property",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\define-data-property\\LICENSE"
+  },
+  "delegates@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-delegates",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\delegates",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\delegates\\License"
+  },
+  "depd@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dougwilson/nodejs-depd",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\depd",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\depd\\LICENSE"
+  },
+  "destroy@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/destroy",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\destroy",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\destroy\\LICENSE"
+  },
+  "detect-libc@2.0.3": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/lovell/detect-libc",
+    "publisher": "Lovell Fuller",
+    "email": "npm@lovell.info",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\detect-libc",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\detect-libc\\LICENSE"
+  },
+  "doctrine@3.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/doctrine",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\doctrine",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\doctrine\\LICENSE"
+  },
+  "dotenv@16.4.7": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/motdotla/dotenv",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\dotenv",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\dotenv\\LICENSE"
+  },
+  "dottie@2.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mickhansen/dottie.js",
+    "publisher": "Mick Hansen",
+    "email": "maker@mhansen.io",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\dottie",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\dottie\\LICENSE"
+  },
+  "dunder-proto@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/dunder-proto",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\dunder-proto",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\dunder-proto\\LICENSE"
+  },
+  "ecdsa-sig-formatter@1.0.11": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/Brightspace/node-ecdsa-sig-formatter",
+    "publisher": "D2L Corporation",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ecdsa-sig-formatter",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ecdsa-sig-formatter\\LICENSE"
+  },
+  "ee-first@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonathanong/ee-first",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ee-first",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ee-first\\LICENSE"
+  },
+  "emoji-regex@8.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/emoji-regex",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\emoji-regex",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\emoji-regex\\LICENSE-MIT.txt"
+  },
+  "encodeurl@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/encodeurl",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\send\\node_modules\\encodeurl",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\send\\node_modules\\encodeurl\\LICENSE"
+  },
+  "encodeurl@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/encodeurl",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\encodeurl",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\encodeurl\\LICENSE"
+  },
+  "es-define-property@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-define-property",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\es-define-property",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\es-define-property\\LICENSE"
+  },
+  "es-errors@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-errors",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\es-errors",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\es-errors\\LICENSE"
+  },
+  "escape-html@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/escape-html",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\escape-html",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\escape-html\\LICENSE"
+  },
+  "esutils@2.0.3": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/estools/esutils",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\esutils",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\esutils\\LICENSE.BSD"
+  },
+  "etag@1.8.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/etag",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\etag",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\etag\\LICENSE"
+  },
+  "express-fileupload@1.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/richardgirges/express-fileupload",
+    "publisher": "Richard Girges",
+    "email": "richardgirges@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\express-fileupload",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\express-fileupload\\LICENSE"
+  },
+  "express@4.21.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/express",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\express",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\express\\LICENSE"
+  },
+  "fill-range@7.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/fill-range",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\fill-range",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\fill-range\\LICENSE"
+  },
+  "finalhandler@1.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/finalhandler",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\finalhandler",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\finalhandler\\LICENSE"
+  },
+  "forwarded@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/forwarded",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\forwarded",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\forwarded\\LICENSE"
+  },
+  "fresh@0.5.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/fresh",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\fresh",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\fresh\\LICENSE"
+  },
+  "fs-minipass@2.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/fs-minipass",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\fs-minipass",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\fs-minipass\\LICENSE"
+  },
+  "fs.realpath@1.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/fs.realpath",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\fs.realpath",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\fs.realpath\\LICENSE"
+  },
+  "function-bind@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/function-bind",
+    "publisher": "Raynos",
+    "email": "raynos2@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\function-bind",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\function-bind\\LICENSE"
+  },
+  "gauge@3.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/gauge",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\gauge",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\gauge\\LICENSE"
+  },
+  "get-intrinsic@1.2.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/get-intrinsic",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\get-intrinsic",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\get-intrinsic\\LICENSE"
+  },
+  "glob-parent@5.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/gulpjs/glob-parent",
+    "publisher": "Gulp Team",
+    "email": "team@gulpjs.com",
+    "url": "https://gulpjs.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\glob-parent",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\glob-parent\\LICENSE"
+  },
+  "glob@7.1.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-glob",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\swagger-jsdoc\\node_modules\\glob",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\swagger-jsdoc\\node_modules\\glob\\LICENSE"
+  },
+  "glob@7.2.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-glob",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\glob",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\glob\\LICENSE"
+  },
+  "gopd@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/gopd",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\gopd",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\gopd\\LICENSE"
+  },
+  "has-flag@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/has-flag",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\has-flag",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\has-flag\\license"
+  },
+  "has-property-descriptors@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-property-descriptors",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\has-property-descriptors",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\has-property-descriptors\\LICENSE"
+  },
+  "has-symbols@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-symbols",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\has-symbols",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\has-symbols\\LICENSE"
+  },
+  "has-unicode@2.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/has-unicode",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\has-unicode",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\has-unicode\\LICENSE"
+  },
+  "hasown@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/hasOwn",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\hasown",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\hasown\\LICENSE"
+  },
+  "http-errors@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/http-errors",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\http-errors",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\http-errors\\LICENSE"
+  },
+  "https-proxy-agent@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TooTallNate/node-https-proxy-agent",
+    "publisher": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://n8.io/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\https-proxy-agent",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\https-proxy-agent\\README.md"
+  },
+  "iconv-lite@0.4.24": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ashtuchkin/iconv-lite",
+    "publisher": "Alexander Shtuchkin",
+    "email": "ashtuchkin@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\iconv-lite",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\iconv-lite\\LICENSE"
+  },
+  "ignore-by-default@1.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/novemberborn/ignore-by-default",
+    "publisher": "Mark Wubben",
+    "url": "https://novemberborn.net/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ignore-by-default",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ignore-by-default\\LICENSE"
+  },
+  "inflection@1.13.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dreamerslab/node.inflection",
+    "publisher": "dreamerslab",
+    "email": "ben@dreamerslab.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\inflection",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\inflection\\LICENSE"
+  },
+  "inflight@1.0.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/inflight",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\inflight",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\inflight\\LICENSE"
+  },
+  "inherits@2.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\inherits",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\inherits\\LICENSE"
+  },
+  "ipaddr.js@1.9.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/whitequark/ipaddr.js",
+    "publisher": "whitequark",
+    "email": "whitequark@whitequark.org",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ipaddr.js",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ipaddr.js\\LICENSE"
+  },
+  "is-binary-path@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-binary-path",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\is-binary-path",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\is-binary-path\\license"
+  },
+  "is-extglob@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-extglob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\is-extglob",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\is-extglob\\LICENSE"
+  },
+  "is-fullwidth-code-point@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-fullwidth-code-point",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\is-fullwidth-code-point",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\is-fullwidth-code-point\\license"
+  },
+  "is-glob@4.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/is-glob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\is-glob",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\is-glob\\LICENSE"
+  },
+  "is-number@7.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-number",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\is-number",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\is-number\\LICENSE"
+  },
+  "js-yaml@4.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodeca/js-yaml",
+    "publisher": "Vladimir Zapparov",
+    "email": "dervus.grim@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\js-yaml",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\js-yaml\\LICENSE"
+  },
+  "jsonwebtoken@9.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/auth0/node-jsonwebtoken",
+    "publisher": "auth0",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\jsonwebtoken",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\jsonwebtoken\\LICENSE"
+  },
+  "jwa@1.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/brianloveswords/node-jwa",
+    "publisher": "Brian J. Brennan",
+    "email": "brianloveswords@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\jwa",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\jwa\\LICENSE"
+  },
+  "jws@3.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/brianloveswords/node-jws",
+    "publisher": "Brian J Brennan",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\jws",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\jws\\LICENSE"
+  },
+  "lodash.get@4.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.get",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.get\\LICENSE"
+  },
+  "lodash.includes@4.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.includes",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.includes\\LICENSE"
+  },
+  "lodash.isboolean@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isboolean",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isboolean\\LICENSE"
+  },
+  "lodash.isequal@4.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isequal",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isequal\\LICENSE"
+  },
+  "lodash.isinteger@4.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isinteger",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isinteger\\LICENSE"
+  },
+  "lodash.isnumber@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isnumber",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isnumber\\LICENSE"
+  },
+  "lodash.isplainobject@4.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isplainobject",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isplainobject\\LICENSE"
+  },
+  "lodash.isstring@4.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isstring",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.isstring\\LICENSE"
+  },
+  "lodash.mergewith@4.6.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.mergewith",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.mergewith\\LICENSE"
+  },
+  "lodash.once@4.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.once",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash.once\\LICENSE"
+  },
+  "lodash@4.17.21": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\lodash\\LICENSE"
+  },
+  "make-dir@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/make-dir",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\make-dir",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\make-dir\\license"
+  },
+  "media-typer@0.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/media-typer",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\media-typer",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\media-typer\\LICENSE"
+  },
+  "merge-descriptors@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/merge-descriptors",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\merge-descriptors",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\merge-descriptors\\LICENSE"
+  },
+  "methods@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/methods",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\methods",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\methods\\LICENSE"
+  },
+  "mime-db@1.52.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-db",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\mime-db",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\mime-db\\LICENSE"
+  },
+  "mime-types@2.1.35": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-types",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\mime-types",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\mime-types\\LICENSE"
+  },
+  "mime@1.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/broofa/node-mime",
+    "publisher": "Robert Kieffer",
+    "email": "robert@broofa.com",
+    "url": "http://github.com/broofa",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\mime",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\mime\\LICENSE"
+  },
+  "minimatch@3.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minimatch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\minimatch",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\minimatch\\LICENSE"
+  },
+  "minipass@3.3.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minipass",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\fs-minipass\\node_modules\\minipass",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\fs-minipass\\node_modules\\minipass\\LICENSE"
+  },
+  "minipass@5.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minipass",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\minipass",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\minipass\\LICENSE"
+  },
+  "minizlib@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/minizlib",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\minizlib",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\minizlib\\LICENSE"
+  },
+  "mkdirp@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/node-mkdirp",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\mkdirp",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\mkdirp\\LICENSE"
+  },
+  "moment-timezone@0.5.46": {
+    "licenses": "MIT",
+    "repository": "https://github.com/moment/moment-timezone",
+    "publisher": "Tim Wood",
+    "email": "washwithcare@gmail.com",
+    "url": "http://timwoodcreates.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\moment-timezone",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\moment-timezone\\LICENSE"
+  },
+  "moment@2.30.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/moment/moment",
+    "publisher": "Iskren Ivov Chernev",
+    "email": "iskren.chernev@gmail.com",
+    "url": "https://github.com/ichernev",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\moment",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\moment\\LICENSE"
+  },
+  "ms@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeit/ms",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ms",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\ms\\license.md"
+  },
+  "ms@2.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/ms",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\agent-base\\node_modules\\ms",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\agent-base\\node_modules\\ms\\license.md"
+  },
+  "negotiator@0.6.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/negotiator",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\negotiator",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\negotiator\\LICENSE"
+  },
+  "node-addon-api@5.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodejs/node-addon-api",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\node-addon-api",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\node-addon-api\\LICENSE.md"
+  },
+  "node-fetch@2.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bitinn/node-fetch",
+    "publisher": "David Frank",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\node-fetch",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\node-fetch\\LICENSE.md"
+  },
+  "nodemon@3.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remy/nodemon",
+    "publisher": "Remy Sharp",
+    "url": "https://github.com/remy",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\nodemon",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\nodemon\\LICENSE"
+  },
+  "nopt@5.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/nopt",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\nopt",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\nopt\\LICENSE"
+  },
+  "normalize-path@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/normalize-path",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\normalize-path",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\normalize-path\\LICENSE"
+  },
+  "npmlog@5.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/npmlog",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\npmlog",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\npmlog\\LICENSE"
+  },
+  "object-assign@4.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/object-assign",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\object-assign",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\object-assign\\license"
+  },
+  "object-inspect@1.13.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/object-inspect",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\object-inspect",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\object-inspect\\LICENSE"
+  },
+  "on-finished@2.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/on-finished",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\on-finished",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\on-finished\\LICENSE"
+  },
+  "once@1.4.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/once",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\once",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\once\\LICENSE"
+  },
+  "openapi-types@12.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kogosoftwarellc/open-api/tree/master/packages/openapi-types",
+    "publisher": "Joseph Spencer",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\openapi-types",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\openapi-types\\LICENSE"
+  },
+  "parseurl@1.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/parseurl",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\parseurl",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\parseurl\\LICENSE"
+  },
+  "path-is-absolute@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-is-absolute",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\path-is-absolute",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\path-is-absolute\\license"
+  },
+  "path-to-regexp@0.1.12": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/path-to-regexp",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\path-to-regexp",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\path-to-regexp\\LICENSE"
+  },
+  "pg-cloudflare@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/brianc/node-postgres",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-cloudflare",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-cloudflare\\LICENSE"
+  },
+  "pg-connection-string@2.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/brianc/node-postgres",
+    "publisher": "Blaine Bublitz",
+    "email": "blaine@iceddev.com",
+    "url": "http://iceddev.com/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-connection-string",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-connection-string\\LICENSE"
+  },
+  "pg-hstore@2.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/scarney81/pg-hstore",
+    "publisher": "Seth Carney",
+    "email": "scarney81@gmail.com",
+    "url": "https://github.com/scarney81",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-hstore",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-hstore\\LICENSE"
+  },
+  "pg-int8@1.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/charmander/pg-int8",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-int8",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-int8\\LICENSE"
+  },
+  "pg-pool@3.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/brianc/node-postgres",
+    "publisher": "Brian M. Carlson",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-pool",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-pool\\LICENSE"
+  },
+  "pg-protocol@1.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/brianc/node-postgres",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-protocol",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-protocol\\LICENSE"
+  },
+  "pg-types@2.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/brianc/node-pg-types",
+    "publisher": "Brian M. Carlson",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-types",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg-types\\README.md"
+  },
+  "pg@8.13.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/brianc/node-postgres",
+    "publisher": "Brian Carlson",
+    "email": "brian.m.carlson@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pg\\LICENSE"
+  },
+  "pgpass@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hoegaarden/pgpass",
+    "publisher": "Hannes Hörl",
+    "email": "hannes.hoerl+pgpass@snowreporter.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pgpass",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pgpass\\README.md"
+  },
+  "picomatch@2.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/picomatch",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\picomatch",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\picomatch\\LICENSE"
+  },
+  "postgres-array@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bendrucker/postgres-array",
+    "publisher": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\postgres-array",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\postgres-array\\license"
+  },
+  "postgres-bytea@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bendrucker/postgres-bytea",
+    "publisher": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\postgres-bytea",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\postgres-bytea\\license"
+  },
+  "postgres-date@1.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bendrucker/postgres-date",
+    "publisher": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\postgres-date",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\postgres-date\\license"
+  },
+  "postgres-interval@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bendrucker/postgres-interval",
+    "publisher": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\postgres-interval",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\postgres-interval\\license"
+  },
+  "proxy-addr@2.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/proxy-addr",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\proxy-addr",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\proxy-addr\\LICENSE"
+  },
+  "pstree.remy@1.1.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remy/pstree",
+    "publisher": "Remy Sharp",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pstree.remy",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\pstree.remy\\LICENSE"
+  },
+  "qs@6.13.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/ljharb/qs",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\qs",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\qs\\LICENSE.md"
+  },
+  "range-parser@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/range-parser",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\range-parser",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\range-parser\\LICENSE"
+  },
+  "raw-body@2.5.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/raw-body",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\raw-body",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\raw-body\\LICENSE"
+  },
+  "readable-stream@3.6.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodejs/readable-stream",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\readable-stream",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\readable-stream\\LICENSE"
+  },
+  "readdirp@3.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/paulmillr/readdirp",
+    "publisher": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "thlorenz.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\readdirp",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\readdirp\\LICENSE"
+  },
+  "retry-as-promised@7.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mickhansen/retry-as-promised",
+    "publisher": "Mick Hansen",
+    "email": "maker@mhansen.io",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\retry-as-promised",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\retry-as-promised\\LICENSE"
+  },
+  "rimraf@3.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/rimraf",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\rimraf",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\rimraf\\LICENSE"
+  },
+  "safe-buffer@5.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/safe-buffer",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\safe-buffer",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\safe-buffer\\LICENSE"
+  },
+  "safer-buffer@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ChALkeR/safer-buffer",
+    "publisher": "Nikita Skovoroda",
+    "email": "chalkerx@gmail.com",
+    "url": "https://github.com/ChALkeR",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\safer-buffer",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\safer-buffer\\LICENSE"
+  },
+  "semver@6.3.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\make-dir\\node_modules\\semver",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\make-dir\\node_modules\\semver\\LICENSE"
+  },
+  "semver@7.6.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\semver",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\semver\\LICENSE"
+  },
+  "send@0.19.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/send",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\send",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\send\\LICENSE"
+  },
+  "sequelize-pool@7.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sushantdhiman/sequelize-pool",
+    "publisher": "Sushant",
+    "email": "sushantdhiman@outlook.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\sequelize-pool",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\sequelize-pool\\LICENSE"
+  },
+  "sequelize@6.37.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sequelize/sequelize",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\sequelize",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\sequelize\\LICENSE"
+  },
+  "serve-static@1.16.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/serve-static",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\serve-static",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\serve-static\\LICENSE"
+  },
+  "server@1.0.0": {
+    "licenses": "ISC",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server"
+  },
+  "set-blocking@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/yargs/set-blocking",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\set-blocking",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\set-blocking\\LICENSE.txt"
+  },
+  "set-function-length@1.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/set-function-length",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\set-function-length",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\set-function-length\\LICENSE"
+  },
+  "setprototypeof@1.2.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/wesleytodd/setprototypeof",
+    "publisher": "Wes Todd",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\setprototypeof",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\setprototypeof\\LICENSE"
+  },
+  "side-channel@1.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/side-channel",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\side-channel",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\side-channel\\LICENSE"
+  },
+  "signal-exit@3.0.7": {
+    "licenses": "ISC",
+    "repository": "https://github.com/tapjs/signal-exit",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\signal-exit",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\signal-exit\\LICENSE.txt"
+  },
+  "simple-update-notifier@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/alexbrazier/simple-update-notifier",
+    "publisher": "alexbrazier",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\simple-update-notifier",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\simple-update-notifier\\LICENSE"
+  },
+  "split2@4.2.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/mcollina/split2",
+    "publisher": "Matteo Collina",
+    "email": "hello@matteocollina.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\split2",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\split2\\LICENSE"
+  },
+  "statuses@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/statuses",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\statuses",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\statuses\\LICENSE"
+  },
+  "streamsearch@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mscdex/streamsearch",
+    "publisher": "Brian White",
+    "email": "mscdex@mscdex.net",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\streamsearch",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\streamsearch\\LICENSE"
+  },
+  "string-width@4.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/string-width",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\string-width",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\string-width\\license"
+  },
+  "string_decoder@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodejs/string_decoder",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\string_decoder",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\string_decoder\\LICENSE"
+  },
+  "strip-ansi@6.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/strip-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\strip-ansi",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\strip-ansi\\license"
+  },
+  "supports-color@5.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/supports-color",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\supports-color",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\supports-color\\license"
+  },
+  "swagger-jsdoc@6.2.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Surnet/swagger-jsdoc",
+    "publisher": "https://github.com/Surnet/swagger-jsdoc/graphs/contributors",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\swagger-jsdoc",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\swagger-jsdoc\\LICENSE"
+  },
+  "swagger-parser@10.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/APIDevTools/swagger-parser",
+    "publisher": "James Messinger",
+    "url": "https://jamesmessinger.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\swagger-parser",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\swagger-parser\\LICENSE"
+  },
+  "swagger-ui-dist@5.20.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/swagger-api/swagger-ui",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\swagger-ui-dist",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\swagger-ui-dist\\LICENSE",
+    "noticeFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\swagger-ui-dist\\NOTICE"
+  },
+  "swagger-ui-express@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/scottie1984/swagger-ui-express",
+    "publisher": "Stephen Scott",
+    "email": "scottie1984@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\swagger-ui-express",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\swagger-ui-express\\LICENSE"
+  },
+  "tar@6.2.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-tar",
+    "publisher": "GitHub Inc.",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\tar",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\tar\\LICENSE"
+  },
+  "to-regex-range@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/to-regex-range",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\to-regex-range",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\to-regex-range\\LICENSE"
+  },
+  "toidentifier@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/toidentifier",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\toidentifier",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\toidentifier\\LICENSE"
+  },
+  "toposort-class@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gustavohenke/toposort",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\toposort-class",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\toposort-class\\LICENSE"
+  },
+  "touch@3.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-touch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\touch",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\touch\\LICENSE"
+  },
+  "tr46@0.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Sebmaster/tr46.js",
+    "publisher": "Sebastian Mayr",
+    "email": "npm@smayr.name",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\tr46"
+  },
+  "type-is@1.6.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/type-is",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\type-is",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\type-is\\LICENSE"
+  },
+  "undefsafe@2.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remy/undefsafe",
+    "publisher": "Remy Sharp",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\undefsafe",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\undefsafe\\LICENSE"
+  },
+  "underscore@1.13.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jashkenas/underscore",
+    "publisher": "Jeremy Ashkenas",
+    "email": "jeremy@documentcloud.org",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\underscore",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\underscore\\LICENSE"
+  },
+  "undici-types@6.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodejs/undici",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\undici-types",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\undici-types\\LICENSE"
+  },
+  "unpipe@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/unpipe",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\unpipe",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\unpipe\\LICENSE"
+  },
+  "util-deprecate@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TooTallNate/util-deprecate",
+    "publisher": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://n8.io/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\util-deprecate",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\util-deprecate\\LICENSE"
+  },
+  "utils-merge@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/utils-merge",
+    "publisher": "Jared Hanson",
+    "email": "jaredhanson@gmail.com",
+    "url": "http://www.jaredhanson.net/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\utils-merge",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\utils-merge\\LICENSE"
+  },
+  "uuid@11.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/uuidjs/uuid",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\uuid",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\uuid\\LICENSE.md"
+  },
+  "uuid@8.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/uuidjs/uuid",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\sequelize\\node_modules\\uuid",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\sequelize\\node_modules\\uuid\\LICENSE.md"
+  },
+  "validator@13.12.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/validatorjs/validator.js",
+    "publisher": "Chris O'Hara",
+    "email": "cohara87@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\validator",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\validator\\LICENSE"
+  },
+  "vary@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/vary",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\vary",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\vary\\LICENSE"
+  },
+  "webidl-conversions@3.0.1": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/jsdom/webidl-conversions",
+    "publisher": "Domenic Denicola",
+    "email": "d@domenic.me",
+    "url": "https://domenic.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\webidl-conversions",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\webidl-conversions\\LICENSE.md"
+  },
+  "whatwg-url@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jsdom/whatwg-url",
+    "publisher": "Sebastian Mayr",
+    "email": "github@smayr.name",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\whatwg-url",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\whatwg-url\\LICENSE.txt"
+  },
+  "wide-align@1.1.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/wide-align",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "url": "http://re-becca.org/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\wide-align",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\wide-align\\LICENSE"
+  },
+  "wkx@0.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/cschwarz/wkx",
+    "publisher": "Christian Schwarz",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\wkx",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\wkx\\LICENSE.txt"
+  },
+  "wrappy@1.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/wrappy",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\wrappy",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\wrappy\\LICENSE"
+  },
+  "xtend@4.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/xtend",
+    "publisher": "Raynos",
+    "email": "raynos2@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\xtend",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\xtend\\LICENSE"
+  },
+  "yallist@4.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/yallist",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\yallist",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\yallist\\LICENSE"
+  },
+  "yaml@2.0.0-1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/eemeli/yaml",
+    "publisher": "Eemeli Aro",
+    "email": "eemeli@gmail.com",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\yaml",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\yaml\\LICENSE"
+  },
+  "z-schema@5.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zaggino/z-schema",
+    "path": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\z-schema",
+    "licenseFile": "D:\\My_\\Institut\\Standardization\\Vintage shop\\server\\node_modules\\z-schema\\LICENSE"
+  }
+}
+

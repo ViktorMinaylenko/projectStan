@@ -4,6 +4,12 @@ import { Context } from '../index'
 import { Row } from 'react-bootstrap'
 import ProductItem from './ProductItem'
 
+/**
+ * Компонент списку товарів.
+ * Відображає список продуктів у вигляді карток.
+ *
+ * @component
+ */
 const ProductList = observer(() => {
 	const { product } = useContext(Context)
 

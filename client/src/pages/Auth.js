@@ -6,6 +6,10 @@ import { login, registration } from '../http/userAPI'
 import { observer } from 'mobx-react-lite'
 import { Context } from '..'
 
+/**
+ * Компонент для авторизації та реєстрації користувачів.
+ * Використовує MobX для управління станом користувача та здійснює перехід на головну сторінку після успішного входу.
+ */
 const Auth = observer(() => {
 	const { user } = useContext(Context)
 	const location = useLocation()
@@ -14,6 +18,11 @@ const Auth = observer(() => {
 	const [email, setEmail] = useState('')
 	const [password, setPassword] = useState('')
 
+	/**
+	 * Обробник кліку для авторизації або реєстрації.
+	 * Виконує запит до сервера та зберігає інформацію про користувача у MobX.
+	 * У разі помилки виводить повідомлення.
+	 */
 	const click = async () => {
 		try {
 			let data
@@ -42,7 +51,7 @@ const Auth = observer(() => {
 			style={{ height: window.innerHeight - 54 }}
 		>
 			<Card style={{ width: 600 }} className='p-5'>
-				<h2 className='m-auto'>{isLogin ? 'Авторизацsя' : 'Реєстрація'}</h2>
+				<h2 className='m-auto'>{isLogin ? 'Авторизація' : 'Реєстрація'}</h2>
 				<Form className='d-flex flex-column'>
 					<Form.Control
 						className='mt-3'

@@ -4,6 +4,7 @@ import { authRoutes, publicRoutes } from '../routes'
 import { SHOP_ROUTE } from '../utils/consts'
 import { Context } from '..'
 
+
 const AppRouter = () => {
 	const { user } = useContext(Context)
 

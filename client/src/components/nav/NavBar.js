@@ -8,11 +8,22 @@ import { useNavigate } from 'react-router-dom'
 import { FiSearch, FiShoppingBag, FiUser } from 'react-icons/fi'
 import './NavBar.css'
 
+/**
+ * Компонент навігаційної панелі.
+ * Відображає логотип, навігаційні посилання, пошук, кошик та профіль користувача.
+ *
+ * @component
+ */
 const NavBar = observer(() => {
 	const { user } = useContext(Context)
 	const navigate = useNavigate()
 	const [expanded, setExpanded] = useState(false)
 
+	/**
+	 * Функція виходу користувача з системи.
+	 * Очищає токен з localStorage, скидає стан користувача в контексті
+	 * та перенаправляє на головну сторінку.
+	 */
 	const logOut = () => {
 		console.log('Користувач вийшов з системи:', user.user.email)
 		localStorage.removeItem('token')
@@ -84,9 +95,14 @@ const NavBar = observer(() => {
 							</Dropdown.Toggle>
 
 							<Dropdown.Menu>
-								<Dropdown.Item onClick={() => navigate('/admin')}>
-									Адмін панель
+								<Dropdown.Item onClick={() => navigate('/profile')}>
+									Профіль
 								</Dropdown.Item>
+								{user.user.role === 'ADMIN' && (
+									<Dropdown.Item onClick={() => navigate(ADMIN_ROUTE)}>
+										Адмін панель
+									</Dropdown.Item>
+								)}
 								<Dropdown.Item onClick={logOut}>Вийти</Dropdown.Item>
 							</Dropdown.Menu>
 						</Dropdown>

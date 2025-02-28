@@ -3,6 +3,12 @@ import { observer } from 'mobx-react-lite'
 import { Context } from '../index'
 import { Card, Row, Col } from 'react-bootstrap'
 
+/**
+ * Компонент панелі вибору бренду.
+ * Відображає список доступних брендів у вигляді карток та дозволяє вибрати один із них.
+ *
+ * @component
+ */
 const BrandBar = observer(() => {
 	const { product } = useContext(Context)
 

@@ -1,0 +1,7 @@
+├─ MIT: 170
+├─ ISC: 38
+├─ Apache-2.0: 5
+├─ BSD-3-Clause: 3
+├─ BSD-2-Clause: 3
+└─ Python-2.0: 1
+

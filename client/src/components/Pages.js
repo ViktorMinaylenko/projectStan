@@ -3,11 +3,20 @@ import { observer } from 'mobx-react-lite'
 import { Context } from '../index'
 import { Pagination } from 'react-bootstrap'
 
+/**
+ * Компонент пагінації.
+ * Відображає список сторінок і дозволяє користувачеві перемикатися між ними.
+ *
+ * @component
+ */
 const Pages = observer(() => {
 	const { product } = useContext(Context)
+
+	// Обчислення кількості сторінок
 	const pageCount = Math.ceil(product.totalCount / product.limit)
 	const pages = []
 
+	// Заповнення масиву сторінок
 	for (let i = 0; i < pageCount; i++) {
 		pages.push(i + 1)
 	}

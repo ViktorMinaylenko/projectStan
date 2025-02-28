@@ -3,6 +3,8 @@ import Auth from './pages/Auth'
 import Cart from './pages/Cart'
 import ProductPage from './pages/ProductPage'
 import Shop from './pages/Shop'
+import PrivacyPolicy from './pages/PrivacyPolicy'
+import Profile from './pages/Profile'
 import {
 	ADMIN_ROUTE,
 	PRODUCT_ROUTE,
@@ -10,6 +12,7 @@ import {
 	CART_ROUTE,
 	SHOP_ROUTE,
 	LOGIN_ROUTE,
+	PROFILE_ROUTE,
 } from './utils/consts'
 
 export const authRoutes = [
@@ -39,5 +42,13 @@ export const publicRoutes = [
 	{
 		path: PRODUCT_ROUTE + '/:id',
 		Component: ProductPage,
+	},
+	{
+		path: '/privacy-policy',
+		Component: PrivacyPolicy,
+	},
+	{
+		path: PROFILE_ROUTE,
+		Component: Profile,
 	},
 ]

@@ -4,24 +4,45 @@ import bigStar from '../assets/bigStar.png'
 import { useParams } from 'react-router-dom'
 import { fetchOneProduct } from '../http/productAPI'
 
+/**
+ * Компонент сторінки товару.
+ * Підвантажує дані товару за ID, відображає зображення, назву, рейтинг, ціну та опис товару.
+ *
+ * @component
+ */
 const ProductPage = () => {
-
+	/**
+	 * Стан з даними товару.
+	 * @type {Object}
+	 * @property {Array} info - Додаткова інформація про товар.
+	 */
 	const [product, setProduct] = useState({ info: [] })
+
+	// Отримання параметра "id" з URL для підвантаження конкретного товару.
 	const { id } = useParams()
+
+	/**
+	 * useEffect виконується при першому рендері компонента.
+	 * Викликає API для отримання даних товару за ID та зберігає їх у стані.
+	 */
 	useEffect(() => {
 		fetchOneProduct(id).then(data => setProduct(data))
-	}, [])
+	}, [id])
 
 	return (
 		<Container className='mt-3'>
 			<Row>
+				{/* Стовпець для відображення зображення товару */}
 				<Col md={4}>
 					<Image
 						width={300}
 						height={300}
 						src={process.env.REACT_APP_API_URL + product.image_url}
+						alt={product.name}
 					/>
 				</Col>
+
+				{/* Стовпець для відображення назви товару та рейтингу */}
 				<Col md={4}>
 					<Row className='d-flex flex-column align-items-center'>
 						<h2>{product.name}</h2>
@@ -39,6 +60,8 @@ const ProductPage = () => {
 						</div>
 					</Row>
 				</Col>
+
+				{/* Стовпець для відображення ціни та кнопки "Додати в кошик" */}
 				<Col md={4}>
 					<Card
 						className='d-flex flex-column align-items-center justify-content-around'
@@ -54,6 +77,8 @@ const ProductPage = () => {
 					</Card>
 				</Col>
 			</Row>
+
+			{/* Рядок для відображення опису товару */}
 			<Row className='d-flex flex-column m-3'>
 				<h1>Опис товару:</h1>
 				{product.info.map((info, index) => (
